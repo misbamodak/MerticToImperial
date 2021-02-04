@@ -25,6 +25,8 @@ Make sure git installed in your local machine to clone the repo with following c
 
 4) To create docker image
    1) Run docker-compose up -d
+   2) docker pull misbamodak/misba14:conversion-api
+   3) docker pull misbamodak/misba14:conversion-ui
   
 
 
